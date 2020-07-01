@@ -12,6 +12,7 @@ venv
 syncplay_setup.nsi
 dist.7z
 .*
+!.dockerignore
 !.travis.yml
 !.appveyor.yml
 __pycache__
